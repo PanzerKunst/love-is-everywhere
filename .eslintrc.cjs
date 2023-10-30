@@ -16,6 +16,11 @@ module.exports = {
     "import",
     "css-import-order"
   ],
+  settings: {
+    react: {
+      version: "detect"
+    }
+  },
   rules: {
     "quotes": ["error", "double"],
     "indent": ["error", 2],
