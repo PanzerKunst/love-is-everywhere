@@ -7,7 +7,7 @@ import "./App.scss"
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/love-is-everywhere",
     element: <HomePage/>,
   },
 ])

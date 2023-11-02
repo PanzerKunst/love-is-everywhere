@@ -15,5 +15,6 @@ export default defineConfig({
   build: {
     manifest: true,
     sourcemap: true
-  }
+  },
+  base: "/love-is-everywhere"
 })
